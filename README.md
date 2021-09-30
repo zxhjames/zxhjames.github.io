@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎光临JAMES的小屋😄
 
 You can use the [editor on GitHub](https://github.com/zxhjames/zxhjames.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
